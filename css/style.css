@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-color: rgb(44,62,80);
+    height: 100px;
+}
+
+.background-green{
+    background-color: green;
+    height: 50px;
+    
+}
