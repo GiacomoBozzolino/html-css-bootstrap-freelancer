@@ -15,3 +15,26 @@ header{
     height: 50px;
     
 }
+
+.height-row{
+    height: 100px;
+}
+
+
+.background-lightgreen{
+    background-color: rgb(26,188,156);
+}
+
+
+.background-yellow{
+    background-color: yellow;
+    height: 500px;
+
+}
+
+
+.background-blue{
+    background-color: darkblue;
+    height: 500px;
+    
+}
