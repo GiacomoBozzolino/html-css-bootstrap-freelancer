@@ -35,6 +35,14 @@ header{
 
 .background-blue{
     background-color: darkblue;
-    height: 500px;
-    
+    height: 500px; 
 }
+
+
+.background-red{
+    background-color: darkred;
+    height:150px; 
+}
+
+
+
