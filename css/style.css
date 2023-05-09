@@ -23,11 +23,42 @@ header{
     width: 60%;
     padding-top: 120px;
 }
+h1{
+    font-size: 60px;
+    padding-top: 20px ;
+}
 
+.fa-star{
+    font-size:50px;
+    padding-bottom: 10px;
+}
+hr{
+    width: 20%;
+    height: 5px;
+    
+    margin: 0;
+    opacity: 1;
+    border: none;
+    border-radius: 3px;
+    margin: 20px;
+}
+
+.hr-white{
+    background-color: rgb(255, 255, 255);
+
+}
 
 .white-text{
     color:white
 }
+
+.content{
+    padding: 20px 0;
+}
+
+
+
+
 
 .background-lightgreen{
     background-color: rgb(26,188,156);
@@ -63,4 +94,19 @@ header{
 
 .bottom-footer{
     background-color: rgba(44,62,80,255);
+}
+
+
+
+
+
+
+/* CLASSI RESPONSIVE */
+
+@media screen and (min-width:900px){
+    .jumbo-img{
+        width: 20%;
+    }
+
+    
 }
