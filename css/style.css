@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+.padding-top-bottom{
+    padding: 50px 0;
+}
+
 /* CLASSI HEADER */
 header{
     background-color: rgb(44,62,80);
@@ -19,6 +23,7 @@ header{
 }
 
 /* CLASSI MAIN */
+/* CLASSI PRIMA SEZIONE */
 .jumbo-img{
     width: 60%;
     padding-top: 120px;
@@ -33,32 +38,36 @@ h1{
     padding-bottom: 10px;
 }
 hr{
-    width: 20%;
+    width: 150px;
     height: 5px;
-    
     margin: 0;
     opacity: 1;
     border: none;
     border-radius: 3px;
     margin: 20px;
 }
+.white-text{
+    color:white
+}
 
 .hr-white{
     background-color: rgb(255, 255, 255);
 
 }
-
-.white-text{
-    color:white
+/* FINE CLASSI PRIMA SEZIONE */
+/* CLASSI SECONDA SEZIONE */
+.hr-black{
+    background-color: black;
 }
+
+.border-radius{
+    border-radius: 20px;
+}
+
 
 .content{
     padding: 20px 0;
 }
-
-
-
-
 
 .background-lightgreen{
     background-color: rgb(26,188,156);
