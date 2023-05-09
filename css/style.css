@@ -14,6 +14,7 @@ body{
 
 button{
     font-family: inherit;
+    
 }
 /* CLASSI HEADER */
 header{
@@ -25,37 +26,6 @@ header{
 .white-button{
     border: 1px solid white;
     color:white  
-}
-
-/* CLASSI TERZA SEZIONE */
-p{
-    font-size: 20px;
-}
-
-
-/* CLASSI QUARTA SEZIONE */
-
-.no-border{
-    border-top: none;
-    border-left: none;
-    border-right: none;
-    border-radius: 0;
-}
-.padding-top{
-    padding-top: 20px;
-
-}
-
-.button-green{
-    background-color:rgb(26,188,156);;
-    margin-top: 20px;
-    color: white;
-    font-size: 20px;
-}
-
-label{
-    font-size: 20px;
-
 }
 
 /* CLASSI MAIN */
@@ -70,9 +40,9 @@ h1{
 }
 
 .fa-star{
-    font-size:40px;
-    
+    font-size:40px;  
 }
+
 hr{
     width: 150px;
     height: 5px;
@@ -100,7 +70,6 @@ hr{
     border-radius: 20px;
 }
 
-
 .content{
     padding: 20px 0;
 }
@@ -109,30 +78,40 @@ hr{
     background-color: rgb(26,188,156);
 }
 
+/* CLASSI TERZA SEZIONE  */
+p{
+    font-size: 20px;
+}
 
-.background-yellow{
-    background-color: yellow;
-    height: 500px;
-    margin: 10px;
+.button-text-size{
+    font-size: 25px;
+}
 
+/* CLASSI QUARTA SEZIONE */
+
+.no-border{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+.padding-top{
+    padding-top: 20px;
+}
+
+.button-green{
+    background-color:rgb(26,188,156);;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
 }
 
 
-.background-blue{
-    background-color: darkblue;
-    height: 500px; 
-    margin: 10px 0;
-}
-
-
-.background-red{
-    background-color: darkred;
-    height:200px; 
-    margin: 10px 0
-}
-
-
-
+/* CLASSI FOOTER */
 .top-footer{
     background-color:rgba(58,84,109,255) ;
 }
@@ -140,9 +119,6 @@ hr{
 .bottom-footer{
     background-color: rgba(44,62,80,255);
 }
-
-
-/* CLASSI FOOTER */
 .fa-brands{
     color: white;
     border: 1px solid white;
@@ -154,10 +130,6 @@ hr{
     
 }
     
-
-
-
-
 
 /* CLASSI RESPONSIVE */
 
