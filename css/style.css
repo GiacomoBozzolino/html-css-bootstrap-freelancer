@@ -17,9 +17,7 @@ header{
 
 .white-button{
     border: 1px solid white;
-    color:white
-    
-    
+    color:white  
 }
 
 /* CLASSI TERZA SEZIONE */
@@ -29,6 +27,29 @@ p{
 
 
 /* CLASSI QUARTA SEZIONE */
+
+.no-border{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+}
+.padding-top{
+    padding-top: 20px;
+
+}
+
+.button-green{
+    background-color:rgb(26,188,156);;
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+}
+
+label{
+    font-size: 20px;
+
+}
 
 /* CLASSI MAIN */
 /* CLASSI PRIMA SEZIONE */
@@ -113,6 +134,19 @@ hr{
     background-color: rgba(44,62,80,255);
 }
 
+
+/* CLASSI FOOTER */
+.fa-brands{
+    color: white;
+    border: 1px solid white;
+    display: inline-block;
+    border-radius:100%;
+    padding: 0.5em 0.6em;
+    font-size:20px;
+    margin: 0 10px;
+    
+}
+    
 
 
 
