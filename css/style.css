@@ -4,15 +4,18 @@
     box-sizing: border-box;
 }
 
-
+/* CLASSI HEADER */
 header{
     background-color: rgb(44,62,80);
-    height: 100px;
+   
+    color: white;
 }
 
-.background-green{
-    background-color: green;
-    height: 50px;   
+.white-button{
+    border: 1px solid white;
+    color:white
+    
+    
 }
 
 .height{
@@ -28,6 +31,7 @@ header{
 .background-yellow{
     background-color: yellow;
     height: 500px;
+    margin: 10px;
 
 }
 
@@ -35,13 +39,22 @@ header{
 .background-blue{
     background-color: darkblue;
     height: 500px; 
+    margin: 10px 0;
 }
 
 
 .background-red{
     background-color: darkred;
     height:200px; 
+    margin: 10px 0
 }
 
 
 
+.top-footer{
+    background-color:rgba(58,84,109,255) ;
+}
+
+.bottom-footer{
+    background-color: rgba(44,62,80,255);
+}
