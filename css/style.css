@@ -62,6 +62,9 @@ hr{
 }
 /* FINE CLASSI PRIMA SEZIONE */
 /* CLASSI SECONDA SEZIONE */
+.col-12.text-center.white-text .content h4{
+    padding: 20px 0;
+}
 .hr-black{
     background-color: black;
 }
@@ -128,6 +131,10 @@ label{
     font-size:20px;
     margin: 0 10px;
     
+}
+
+#green-text{
+    color:rgba(26,188,156,255);
 }
     
 
