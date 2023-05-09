@@ -18,10 +18,16 @@ header{
     
 }
 
-.height{
-    height: 100%;
+/* CLASSI MAIN */
+.jumbo-img{
+    width: 60%;
+    padding-top: 120px;
 }
 
+
+.white-text{
+    color:white
+}
 
 .background-lightgreen{
     background-color: rgb(26,188,156);
